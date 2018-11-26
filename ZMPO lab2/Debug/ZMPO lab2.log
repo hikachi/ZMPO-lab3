@@ -1,0 +1,5 @@
+﻿  CMenu.cpp
+e:\projekty programowanie\cpp\zmpo lab2\zmpo lab2\cmenu.cpp(22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\projekty programowanie\cpp\zmpo lab2\zmpo lab2\cmenu.cpp(52): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\projekty programowanie\cpp\zmpo lab2\zmpo lab2\cmenu.cpp(77): warning C4715: "CMenu::findAndRun”: niewszystkie ścieżki kodu zwracają wartość
+  ZMPO lab2.vcxproj -> E:\Projekty programowanie\CPP\ZMPO lab2\Debug\ZMPO lab2.exe
